@@ -1,12 +1,12 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-CID_287_Athena_Commando_M_ArcticSniper, 1200
+CID_752_Athena_Commando_M_Comet , 1500
+CID_479_Athena_Commando_F_Davinci, 2000
 na
 na
 na
 na
-CID_245_Athena_Commando_F_DurrburgerPjs, 1500
-CID_329_Athena_Commando_F_SnowNinja, 1200
-Pickaxe_ID_140_StreetGoth, 800
-EID_WristFlick, 500
-Glider_ID_113_Barbarian, 400
-Wrap_006_Ice, 500
+CID_511_Athena_Commando_M_CubePaintWildCard, 2300
+Pickaxe_ID_328_GalileoRocket_SNC0L, 1000
+Pickaxe_ID_197_HoppityHeist, 800
+EID_KitchenNavigator, 500
+EID_LasagnaDance, 600
+Glider_ID_209_DonutPlate, 1200
